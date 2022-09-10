@@ -1,1 +1,1 @@
-# Number_Plate_Recognition_using_Tensorflow_and_EasyOCR
+# Number_Plate_Recognition_using_YOLO
